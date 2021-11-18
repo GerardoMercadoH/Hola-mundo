@@ -1,4 +1,4 @@
-# Hola-mundo
-Mi primer repositorio de prueba. 
-Autor: Gerardo Mercado Hurtado 
-Edad: 27 años 
+# Hola a todo el mundo. 
+Mi primer repositorio.
+Autor: Gerardo Mercado Hurtado. 
+Edad: 27 años. 
